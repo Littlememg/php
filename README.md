@@ -2,11 +2,11 @@
 layout: layout.html
 ---
 
-# PHP PRACTISE
+# ~~PHP~~ 11PRACTISE
 
 Example of the font:
 
-- ~~Netflix~~  
+- ~~Netflix~~ 
 - _Netlify_
 - **Gitgub**
 
