@@ -7,8 +7,8 @@ layout: layout.html
 Example of the font:
 
 - ~~Netflix~~ 
-- _Netlify_
-- **Gitgub**
+-- _Netlify_
+--- **Gitgub**
 
 ## Recommendation
 
