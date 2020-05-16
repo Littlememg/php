@@ -2,7 +2,7 @@
 layout: layout.html
 ---
 
-# ~~PHP~~ 11PRACTISE
+# ~~PHP~~ 11ty PRACTISE
 
 Example of the font:
 
