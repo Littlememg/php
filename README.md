@@ -16,3 +16,4 @@ Example of the font:
 2. [咕嚕靈波式超渡](https://www.bilibili.com/video/BV1Ck4y167en?spm_id_from=333.851.b_62696c695f7265706f72745f646f756761.41)
 
 ## LICENSE
+hi &copy;
