@@ -1,3 +1,7 @@
+---
+layout: layout.html
+---
+
 # PHP PRACTISE
 
 Example of the font:
