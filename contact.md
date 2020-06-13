@@ -3,10 +3,9 @@ layout: layout
 ---
 
 # Contact us
+The following code is using FormSubmit.co.
 
-The following code is using Netlify form.
-
-<form data-netlify="true" action="/thanks" method="post">
+<form action="https://formsubmit.co/ericpmchan@gmail.com" method="post">
   <p>
     <label>Name:
       <input type="text" name="name">
