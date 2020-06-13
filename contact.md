@@ -5,7 +5,7 @@ layout: layout
 # Contact us
 The following code is using FormSubmit.co.
 
-<form action="https://formsubmit.co/ericpmchan@gmail.com" method="post">
+<form action="https://formsubmit.co/7934778c12a2a670f563d052a7359ed4" method="post">
   <p>
     <label>Name:
       <input type="text" name="name">
