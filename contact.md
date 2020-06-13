@@ -31,5 +31,6 @@ The following code is using FormSubmit.co.
     <label for="content">Content:</label>
     <textarea name="content" id="content"></textarea>
   </p>
+  <input type="hidden" name="_next" value="https://laughing-perlman-852643.netlify.app/thanks">
   <input type="submit" value="Send Form">
 </form>
