@@ -1,0 +1,9 @@
+<div id="qrcode"></div>
+<script src="//cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+
+<script type="text/javascript">
+
+let url = location.href.replace("https://https://laughing-perlman-852643.netlify.app/","");
+
+new QRCode(document.getElementById("qrcode"), url);
+</script>
