@@ -11,6 +11,7 @@ layout: layout.html
 </form>
 
 <script>
+
 document.getElementById("login").addEventListener("submit", function(event){
   let accessCode = document.getElementById("accesscode").value;
 
@@ -19,8 +20,10 @@ document.getElementById("login").addEventListener("submit", function(event){
     body: "accesscode=" + accessCode
   })
   .then(response => response.text())
-  .then(data => console.log(data));
+  .then(data => location.href=data));
   
   event.preventDefault();
-})
+});
+
+
 </script>
