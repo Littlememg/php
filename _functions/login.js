@@ -4,7 +4,7 @@ exports.handler = (event, context, callback) => {
   
   let result = "/"
   if (event.body == "accesscode=demo") {
-    result = "/super-long-url-here/"
+    result = "/super-long-url/"
   }
 
   callback(null, {
